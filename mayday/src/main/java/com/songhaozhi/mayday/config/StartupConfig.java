@@ -14,7 +14,7 @@ import com.songhaozhi.mayday.service.OptionsService;
 import com.songhaozhi.mayday.service.ThemeService;
 
 /**
- * @author : 宋浩志
+ * @author : 詹鹏
  * @createDate : 2018年10月30日
  */
 @Configuration

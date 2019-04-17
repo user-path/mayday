@@ -15,7 +15,7 @@ import com.songhaozhi.mayday.web.interceptor.InstallInterceptor;
 import com.songhaozhi.mayday.web.interceptor.LoginInterceptor;
 
 /**
- * @author : 宋浩志
+ * @author : 詹鹏
  * @createDate : 2018年9月10日
  */
 @Configuration
